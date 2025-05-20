@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+rsfMRI/__init__.py
+rsfMRI/connectivity.py
+rsfMRI/io.py
+rsfMRI/preprocess.py
+rsfMRI/visualization.py
+rsfMRI.egg-info/PKG-INFO
+rsfMRI.egg-info/SOURCES.txt
+rsfMRI.egg-info/dependency_links.txt
+rsfMRI.egg-info/requires.txt
+rsfMRI.egg-info/top_level.txt

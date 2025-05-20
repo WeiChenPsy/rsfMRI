@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: rsfMRI
+Version: 0.1.0
+Summary: A Python package for analyzing resting-state fMRI data
+Author: Your Name
+License: MIT
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: nibabel
+Requires-Dist: nilearn
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
